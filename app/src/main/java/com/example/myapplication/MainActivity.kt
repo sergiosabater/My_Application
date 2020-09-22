@@ -10,7 +10,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
-    val SALUDO = "Hola desde el MainActivity"
+    val SALUDO = "Hola desde el MainActivity principal"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
